@@ -68,3 +68,6 @@ E. Summarized key findings and observations
 
 ## CONCLUSION
 The exploratory data analysis revealed valuable insights into sales performance, customer purchasing behavior, product demand, and marketing effectiveness. The business generated over **$1.26 million** in revenue from **1,200 orders**, demonstrating strong overall performance. Instagram emerged as the most effective referral source, while Online and Credit Card payments played a significant role in revenue generation. Product demand was led by Chairs, Printers, and Laptops, and sales peaked during June and throughout 2023. Despite strong performance, the presence of cancelled and returned orders presents opportunities for operational improvement. Overall, the findings provide a solid foundation for data-driven decision-making and future business growth.
+
+
+# Author: Adesuji Racheal_DecodeLabs_Intern
